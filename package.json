@@ -1,0 +1,24 @@
+{
+  "name": "react_ADSI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XWilliamc/react_ADSI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XWilliamc/react_ADSI/issues"
+  },
+  "homepage": "https://github.com/XWilliamc/react_ADSI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
